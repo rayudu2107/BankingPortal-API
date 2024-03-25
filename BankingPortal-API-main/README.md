@@ -9,7 +9,7 @@ The Banking Portal API allows users to perform various banking operations, inclu
 The API endpoints require bearer token authentication. Users must obtain a valid access token and include it in the "Authorization" header with the "Bearer" scheme to access protected endpoints.
 
 **Base URL:**
-`http://localhost:8180`
+`http://localhost:8080`
 
 ### 1. Account Endpoints
 
